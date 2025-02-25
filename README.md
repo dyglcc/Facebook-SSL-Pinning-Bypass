@@ -2,7 +2,9 @@
 
 Bypass Facebook SSL pinning on Android devices.  
 Supported ABIs: `x86`, `x86_64`, `armeabi-v7a`, `arm64-v8a`  
+
 The original project is no longer maintained. I forked it and updated it to work with the latest Facebook app. If you need it,  contact me for the APK file.
+
 Latest version: contact me TG @Ethan2025 or dongyg0223@gmail.com
 
 
