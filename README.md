@@ -5,7 +5,7 @@ Supported ABIs: `x86`, `x86_64`, `armeabi-v7a`, `arm64-v8a`
 
 The original project is no longer maintained. I forked it and updated it to work with the latest Facebook app. If you need it,  contact me for the APK file.
 
-After installing the apk, you can use charles and mitproxy to capture packets 
+After installing the apk, you can use charles and mitmproxy to capture packets 
 
 Latest version: contact me TG <a href="https://t.me/Ethan_20250225">https://t.me/Ethan_20250225</a> or dongyg0223@gmail.com
 
