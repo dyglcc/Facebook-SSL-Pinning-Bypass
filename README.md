@@ -12,7 +12,7 @@ Latest version: contact me TG <a href="https://t.me/Ethan_20250225">https://t.me
 
 
 ## Patched APK (No Root)
-[facebook-v505.0.0.57.45-arm64-v8a.apk](https://github.com/dyglcc/Facebook-SSL-Pinning-Bypass/releases/download/v505.0.0.57.45/facebook-v505.0.0.57.45-arm64-v8a.apk)
+[facebook-v505.0.0.57.45-arm64-v8a.apk](https://github.com/dyglcc/Facebook-SSL-Pinning-Bypass/releases/download/v505.0.0.57.45/facebook_v505.0.0.57.45-arm64-v8.apk)
 
 [facebook-v501.0.0.61.70-arm64-v8a.apk](https://github.com/dyglcc/Facebook-SSL-Pinning-Bypass/releases/download/v501.0.0.61.70/facebook-v501.0.0.61.70-arm64-v8a.apk)
 
