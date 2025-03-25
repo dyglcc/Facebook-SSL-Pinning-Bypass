@@ -7,7 +7,7 @@ The original project is no longer maintained. I forked it and updated it to work
 
 After installing the apk, you can use Charles or mitmproxy or Burp Suite to capture packets 
 
-Latest version: contact me TG <a href="https://t.me/Ethan_20250225">https://t.me/Ethan_20250225</a> or dongyg0223@gmail.com
+Latest version: contact me TG <a href="https://t.me/Ethan_20250225">https://t.me/Ethan_20250225</a>
 
 
 
