@@ -38,7 +38,7 @@ frida -U -l .\facebook-ssl-pinning-bypass.js -f com.facebook.katana --no-pause
 You can use a tool like Charles or mitmproxy or Burp Suite to intercept the network.
 
 1. Install patched APK in the device
-2. Install [mitmproxy](https://mitmproxy.org/) or [Burp Suite](https://portswigger.net/burp)
+2. Install Charles or [mitmproxy](https://mitmproxy.org/) or [Burp Suite](https://portswigger.net/burp)
 3. Set up proxy for wifi settings or run: `adb shell settings put global http_proxy <proxy>`
 
 Now you should be able to see the network traffic.
