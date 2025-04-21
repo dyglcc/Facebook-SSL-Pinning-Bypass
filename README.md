@@ -7,12 +7,16 @@ The original project is no longer maintained. I forked it and updated it to work
 
 After installing the apk, you can use Charles or mitmproxy or Burp Suite to capture packets 
 
-Latest version: contact me TG <a href="https://t.me/Ethan_20250225">https://t.me/Ethan_20250225</a> or dongyg0223@gmail.com
+Latest version: contact me TG <a href="https://t.me/Ethan_20250225">https://t.me/Ethan_20250225</a>
 
 
 
 ## Patched APK (No Root)
-[facebook_v505.0.0.57.45-arm64-v8.apk](https://github.com/dyglcc/Facebook-SSL-Pinning-Bypass/releases/download/v505.0.0.57.45/facebook_v505.0.0.57.45-arm64-v8.apk)
+
+[facebook_v509.0.0.67.28_x86.apk](https://github.com/dyglcc/Facebook-SSL-Pinning-Bypass/releases/download/v509.0.0.67.28/facebook_v509.0.0.67.28_x86.apk)
+
+[facebook-v505.0.0.57.45-arm64-v8a.apk](https://github.com/dyglcc/Facebook-SSL-Pinning-Bypass/releases/download/v505.0.0.57.45/facebook_v505.0.0.57.45-arm64-v8.apk)
+
 
 [facebook-v501.0.0.61.70-arm64-v8a.apk](https://github.com/dyglcc/Facebook-SSL-Pinning-Bypass/releases/download/v501.0.0.61.70/facebook-v501.0.0.61.70-arm64-v8a.apk)
 
@@ -38,7 +42,7 @@ frida -U -l .\facebook-ssl-pinning-bypass.js -f com.facebook.katana --no-pause
 You can use a tool like Charles or mitmproxy or Burp Suite to intercept the network.
 
 1. Install patched APK in the device
-2. Install [mitmproxy](https://mitmproxy.org/) or [Burp Suite](https://portswigger.net/burp)
+2. Install Charles or [mitmproxy](https://mitmproxy.org/) or [Burp Suite](https://portswigger.net/burp)
 3. Set up proxy for wifi settings or run: `adb shell settings put global http_proxy <proxy>`
 
 Now you should be able to see the network traffic.
